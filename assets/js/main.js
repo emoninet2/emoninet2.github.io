@@ -36,18 +36,15 @@
 
 			// Images (in the format of 'url': 'alignment').
 			images: {
+				
 				'images/oslo2.jpeg': 'top',
-				'images/singapore.jpeg': 'top',
-				'images/singapore2.jpeg': 'center',
 				'images/london.jpeg': 'center',
 				'images/copenhagen.jpeg': 'center',
 				'images/london2.jpeg': 'top',
 				'images/edinburgh.jpeg': 'top',
-				
 				'images/berlin.jpeg': 'center',
-				
-				
 				'images/oslo.jpeg': 'center',
+				'images/singapore.jpeg': 'top',
 				
 
 			},
