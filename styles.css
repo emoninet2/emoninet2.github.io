@@ -170,7 +170,7 @@ body.is-preload #bg {
 /* Navigation styles */
 header {
     width: 100%;
-    position: relative;
+    position: sticky;
     /* Change from fixed to sticky */
     top: 0;
     /* Stick to the top of the viewport */
