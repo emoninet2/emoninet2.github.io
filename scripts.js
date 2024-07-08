@@ -45,6 +45,7 @@
                 'images/berlin.jpeg': 'center',
                 'images/oslo.jpeg': 'center',
                 'images/singapore.jpeg': 'top',
+                'images/berlin2.jpeg': 'top',
 
 
             },
